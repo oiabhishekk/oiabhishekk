@@ -42,13 +42,13 @@ Web Developer | HTML, CSS, JavaScript, MERN, Bootstrap, Tailwind CSS
 
 ### Spotify UI Clone
 
-- **GitHub:** [github.com/oiabhishekk/spotify-ui-clone](https://github.com/oiabhishekk/spotify-ui-clone)
+- **GitHub:** [github.com/oiabhishekk/spotify-ui-clone]
 - Developed a clone of the Spotify user interface using React.
 - Implemented features like music playback and user playlists.
 
 ### Airbnb Full Stack Clone
 
-- **GitHub:** [github.com/oiabhishekk/airbnb-full-stack-clone](https://github.com/oiabhishekk/airbnb-full-stack-clone)
+- **GitHub:** [github.com/oiabhishekk/airbnb-full-stack-clone](https://wonderlust-luwk.onrender.com/listings)
 - Created a full-stack Airbnb clone using the MERN stack.
 - Features include CRUD operations, property listings, booking functionality, and user profiles.
 

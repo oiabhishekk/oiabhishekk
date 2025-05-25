@@ -11,10 +11,10 @@
 
 ### 🔥 About Me
 
-- 🌱 I’m currently learning **Next.js** and expanding my knowledge in **Cloud Platforms** (AWS).
-- 💻 Most of my projects are built using **React.js, Node.js, MongoDB, and Express.js**.
-- 🔭 I’m currently working on: [Full Stack Blogging Website](https://github.com/oiabhishekk/Major-mern-blog)
-- 🌐 Check out one of my latest UI projects: [Hoobank UI Website](https://hoobankk-802p.onrender.com)
+- 🌱 Currently learning **Next.js** and exploring **Cloud Platforms**.
+- 💻 Building projects using **React.js, Node.js, MongoDB, Express.js**.
+- 🔭 Working on: [Full Stack Blogging Website](https://github.com/oiabhishekk/Major-mern-blog)
+- 🌐 Recent UI Project: [Hoobank UI Website](https://hoobankk-802p.onrender.com)
 - 💬 Ask me about **React, Redux, Tailwind CSS, Node.js**
 - 📫 Reach me at: **abhiiiworks@gmail.com**
 
@@ -33,7 +33,20 @@
 
 **Tools & Platforms:**  
 `Git` `GitHub` `Postman` `VS Code` `Firebase` `Appwrite` `Render`  
-`Familiar with:` `CI/CD` `Agile (Scrum/Kanban)` `Basic AWS/Azure/GCP`
+`Familiar with:` `CI/CD` `Basic AWS/GCP/Azure`
+
+---
+
+### 🚀 Projects
+
+- **[BetterSpotify](https://betterspotify.onrender.com)**  
+  A modern Spotify-inspired music interface using React.js and Tailwind CSS. Includes playlist browsing, responsive layout, and audio playback.
+
+- **[Save Blog](https://save-blog.netlify.app)** *(backend temporarily offline)*  
+  Full-stack blog platform with React, MongoDB, Express, Tailwind CSS, and EditorJS. Features CRUD operations, authentication, and a clean writing interface.
+
+- **[Hoobank Website](https://hoobank-cj8k.onrender.com)**  
+  Responsive banking website UI using React.js and Tailwind CSS. Focused on reusable components and user-centric design.
 
 ---
 
@@ -61,5 +74,4 @@
 
 ### ⚡ Fun Fact
 
-I love building clean UIs, solving LeetCode problems, and learning modern web technologies!
-
+I love building clean UIs, solving LeetCode problems, and staying up-to-date with modern web tech!

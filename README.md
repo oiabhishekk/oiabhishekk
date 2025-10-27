@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/oiabhishekk"><img src="https://img.shields.io/github/followers/oiabhishekk?label=Follow&style=social" /></a>
   <a href="mailto:abhiiiworks@gmail.com"><img src="https://img.shields.io/badge/Email-me-blue?logo=gmail&style=flat-square" /></a>
-  <a href="https://discord.com/users/oi_abhi"><img src="https://img.shields.io/badge/Discord-Abhishek%230001-5865F2?logo=discord&logoColor=white&style=flat-square" /></a>
+  <a href="https://discord.com/users/oi_abhi"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square" /></a>
 </p>
 
 ---
@@ -31,13 +31,13 @@
 `JavaScript` · `Java` · `C++` · `SQL`
 
 **Frontend:**  
-`React` · `Redux` · `TailwindCSS` · `Bootstrap` · `HTML` · `CSS`
+`React` · `Next` · `TailwindCSS` · `Bootstrap` · `HTML` · `CSS`
 
 **Backend & DB:**  
-`Node` · `Express` · `MongoDB` · `MySQL`
+`Node` · `Express` · `MongoDB` · `PostGres`
 
 **Tools & Platforms:**  
-`Git` · `GitHub` · `Postman` · `VS Code` · `Firebase` · `Appwrite` · `Render`  
+`Git` · `GitHub` · `Postman` · `VS Code` · `Firebase` · `ChatGpt` · `Render`  
 `(also mess around with AWS, GCP, CI/CD stuff occasionally)`
 
 ---
